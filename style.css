@@ -1,0 +1,37 @@
+body{ 
+	background-color: 438085;
+	color: black;
+	font-family: arial, serif;
+	text-align: center;
+}
+ 
+ h1 {
+ 	color: black;
+ 	font-family: optima,sans-serif;
+	font-weight: 100;
+	letter-spacing: 5px;
+	font-size: 40px;
+}
+
+	h2 {
+		font-family: optima sans-serif;
+		font-weight: 100;
+}
+
+.card-white{
+background-color: 438085;
+padding: 40px;
+box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+border-radius: 4px;
+margin: 20px 0px;
+text-align: center;
+}
+
+.img-circle{
+		border-radius: 10%;
+</body> 
+
+
+
+
+
